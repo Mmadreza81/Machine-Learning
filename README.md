@@ -12,4 +12,4 @@ We have machine learning project
 - reinforcment
    - bees and smoke
 
-![3d image](download.png)
+![3d image](https://github.com/Mmadreza81/Machine-Learning/assets/147701354/8dbfa668-d0ae-45dd-ba2b-711083eb65d7)
